@@ -1,0 +1,8 @@
+{
+  "name": "JARVIS Voice Assistant",
+  "description": "A futuristic, mobile-optimized voice assistant powered by Gemini Live API, featuring a reactive Arc Reactor UI, real-time conversation, image/video analysis, and image generation.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
