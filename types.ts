@@ -18,3 +18,7 @@ export interface LiveState {
   isListening: boolean;
   error?: string;
 }
+
+export interface UserProfile {
+  username: string;
+}
